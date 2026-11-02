@@ -45,3 +45,7 @@ ETH/USDC: 180 swaps found, 0 new rows, 180 already in DB
 ## Proof
 
 ![Row counts per pool](screenshots/row_counts.png)
+
+## Proof
+
+![Row counts per pool](screenshots/row_counts.png)
